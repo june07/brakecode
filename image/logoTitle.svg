@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="logoTitle.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="83.917384"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2535"
+     inkscape:window-height="1317"
+     inkscape:window-x="4107"
+     inkscape:window-y="1477"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3713"
+       style="font-style:normal;font-weight:normal;font-size:96px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fdd830;fill-opacity:0;stroke:none"
+       transform="matrix(0.26115734,0,0,0.26115734,37.455925,25.491202)"
+       inkscape:export-xdpi="96.015251"
+       inkscape:export-ydpi="96.015251"><flowRegion
+         id="flowRegion3715"
+         style="font-size:96px;fill:#fdd830;fill-opacity:0"><rect
+           id="rect3717"
+           width="674.28571"
+           height="222.85715"
+           x="54.285713"
+           y="419.66254"
+           style="font-size:96px;fill:#fdd830;fill-opacity:0" /></flowRegion><flowPara
+         id="flowPara3719"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:Roboto;-inkscape-font-specification:'Roboto Italic';fill:#fdd835;fill-opacity:1"><flowSpan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:96px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
+           id="flowSpan3723">Brake</flowSpan><flowSpan
+           style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy Italic';fill:#fdd835;fill-opacity:1"
+           id="flowSpan3725">CODE</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3727"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3729"><rect
+           id="rect3731"
+           width="48"
+           height="254"
+           x="-519"
+           y="838.51971" /></flowRegion><flowPara
+         id="flowPara3733" /></flowRoot>    <path
+       id="path4630"
+       d="m 42.491367,158.20884 h 5.442851 v -19.04999 h -5.442851 m -10.885721,19.04999 h 5.442859 v -19.04999 h -5.442859 z"
+       inkscape:connector-curvature="0"
+       style="fill:#fdd835;stroke-width:1.36071455"
+       inkscape:export-xdpi="96.015251"
+       inkscape:export-ydpi="96.015251" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot831"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion833"><rect
+           id="rect835"
+           width="804"
+           height="422"
+           x="40"
+           y="412.51968" /></flowRegion><flowPara
+         id="flowPara837"></flowPara></flowRoot>  </g>
+</svg>
